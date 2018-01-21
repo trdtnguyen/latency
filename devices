@@ -5,7 +5,8 @@ Device Name                     |Seq.Read | Seq. write   | Rand. read | Rand. wr
 
 
 Intel NVMe P3700                | 2,800 MB/s | 1,900 MB/s | 460,000 IOPS | 90,000 IOPS | 20 us | 20 us  | $1,458
-Samsung NVMe 960Pro             | 3,500 MB/s | 2,100 MB/s | 14,000 - 330,000 ; 50,000 - 330,000 IOPS (Q1, thread 1 - Q32, thread 4)
+Samsung NVMe 960Pro             | 3,500 MB/s | 2,100 MB/s | 14,000 - 330,000 | 50,000 - 330,000 IOPS (Q1, thread 1 - Q32, thread 4)
+Samsung NVMe PM1725             | 3,100 MB/s | 2,000 MB/s | 750,000 IOPS | 120,000 IOPS
 
 
 
